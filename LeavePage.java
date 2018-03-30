@@ -22,6 +22,7 @@ class LeavePage extends JFrame {
 	class SubmitButtonActionListener implements ActionListener{
 		public void actionPerformed(ActionEvent e) {
 			System.out.println("Submit button pressed.");
+			
 			System.out.println("Leave Applied");
     	}
 	} 
